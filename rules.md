@@ -1,4 +1,4 @@
-AirRobe Coding Assessment
+AirRobe Scrabble
 
 Objective:
 
@@ -13,9 +13,10 @@ The game pack consists of:
   * English Word Dictionary (use this: https://github.com/dwyl/english-words)
 
 How to play:
-  There are 2 player. Each player takes turn to form words in the board using the tiles on their rack.
-  The player gets points equal to the number of letters in the word they form.
-  When the game ends, whoever gets the highest total points wins.
+  * There are 2 player.
+  * Each player takes turn to form words in the board using the tiles on their rack.
+  * The player gets points equal to the number of letters in the word they form.
+  * When the game ends, whoever gets the highest total points wins.
 
 Rules:
  * The board has 15x15 squares and each tile contain a letter. There is no point value on the tile.
@@ -36,6 +37,7 @@ Rules:
 
  * Words can be made horizontally as well as vertically.
     Example: vertically placed word 'star'
+  ```  
      1 _______________
      2 ______s________
      3 ______t________
@@ -51,7 +53,7 @@ Rules:
     13 _______________
     14 _______________
     15 _______________
-
+```
   * However, the direction of word can be only forwards and downwards (not reverse or upwards)
 
 Example of play:
